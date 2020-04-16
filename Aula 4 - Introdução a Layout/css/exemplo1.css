@@ -1,0 +1,40 @@
+body{
+	width: 750px;
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+}
+
+h1{
+	background-color: #efefef;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	padding: 10px;
+	margin: 0px;
+	z-index: 10;
+}
+
+p{
+	position: relative;
+	top: 70px;
+	left: 70px;
+}
+
+p.example{
+	position: relative;
+	top: 10px;
+	left: 20%;
+}
+
+blockquote{
+	float:  right;
+	width: 275px;
+	font-size: 130%;
+	font-style: italic;
+	font-family: Georgia, Times, serif;
+	margin: 0px 0px 10px 10px;
+	padding: 10px;
+	border top: 1px solid #665544;
+	border-bottom: 1px solid #665544;
+}

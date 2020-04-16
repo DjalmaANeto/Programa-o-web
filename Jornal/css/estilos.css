@@ -1,0 +1,24 @@
+body{
+	font-family: Arial;
+	text-align: center;
+	color: #665544;
+	padding: 10px;
+	background-color: #A3A5A7;
+}
+
+ol{
+	padding: 30%;
+}
+
+[/details]
+
+#top{
+	color: red; 
+	text-decoration: underline;
+}
+
+.page{
+	border: 1px solid #665544;
+	padding: inherit;
+	background: #D2D4D4;
+}

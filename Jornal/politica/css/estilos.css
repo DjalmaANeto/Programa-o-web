@@ -1,0 +1,37 @@
+body{
+	font-family: "Times New Roman";	
+	background-color: #A3A5A7;
+}
+
+*{
+	font-family: "Times New Roman";
+	color: black;
+}
+
+div.barranav{
+	text-align: center;
+}
+
+h1{
+	text-decoration:  underline;
+	text-align: center;
+}
+
+div.manchetes{
+	border: 2px solid;
+	padding: 10px;
+	text-align: center;
+	background: #D2D4D4;
+}
+
+div.noticias{
+	text-align: center;
+	text-decoration:  underline;
+
+}
+
+div.noticia{
+	border: 2px solid;
+	padding: 20px;
+	background: #D2D4D4;
+}
