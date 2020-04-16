@@ -1,1 +1,1 @@
-"# Itens desenvolvidos durante a diciplina de desenvolvimento web." 
+"Itens desenvolvidos durante a diciplina de desenvolvimento web." 
