@@ -1,0 +1,33 @@
+Questão 1. Explique a funcionalidade das seguintes propriedades CSS:
+
+font-size: A propriedade font-size define um tamanho de uma fonte. Por exemplo "font-size: 15px", "font-size: large", "font-size: medium", "font-size: 150%".
+
+font-family: A propriedades font-family especifica a fonte para um elemento html. Esta propriedades pode suportar vários nomes de fontes de um sistema "fallback". Se um browser não suportar a primeira fonte, ele tentara a próxima fonte. Exemplo: "font-family: "Times New Roman", Times, serif;".
+
+color: A propriedades color especifica a cor do texto. Exemplo: "color: red;", "color: #ff0000;", "color: rgb(0,0,255)".
+
+background-color: A propriedade background-color define a cor de fundo de um elemento. Exemplo: "body {background-color: blue;}".
+
+position: A propriedade position especifica o tipo de metodo de posição usado por um elemento. Exemplo: "position: static;", "position: relative;", "position: absolute;", "position: fixed;" ou "position: sticky;". 
+
+float: A propriedade float especifica como um elemento pode flutuar. Exemplo: "img { float: left; }".
+
+padding: O padding de um elemento é o espaço entre seu conteudo e sua borda. A propriedade padding é uma propriedade de taquigrafia (abreviamento de escrita) para as propriedades: 
+- padding-top
+- padding-right
+- padding-bottom
+- padding-left
+Exemplo: "padding:10px 5px 15px 20px;" (a definição de top, rigth, bottom e left segue a sequência horária).
+
+margin: A propriedade margim define as margins para um elemento, e é uma propriedade de taquigrafia para as propriedades: 
+- margin-top
+- margin-right
+- margin-bottom
+- margin-left
+Elemento: "p { margin: 10px 5px 15px 20px; }" (a definição de top, rigth, bottom e left segue a sequência horária).
+
+border: A propriedade border é uma propriedade de taquigrafia para: 
+- border-width
+- border-style 
+- border-color
+Exemplo: "h1 { border: 5px solid red; }" (a definição de width, style e color segue a sequência horária).
